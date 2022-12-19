@@ -17,7 +17,7 @@ namespace POV
         }
 
         int funcaoRetornaQuantitadePOV(decimal porcentagem, int totalNegociado) {
-            return (int) Math.Floor(porcentagem * totalNegociado / (1 - porcentagem));
+            return (int) Math.Truncate(porcentagem * totalNegociado / (1 - porcentagem));
         }
     }
 }
