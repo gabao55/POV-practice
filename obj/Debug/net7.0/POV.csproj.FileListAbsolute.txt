@@ -1,0 +1,15 @@
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/bin/Debug/net7.0/POV
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/bin/Debug/net7.0/POV.deps.json
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/bin/Debug/net7.0/POV.runtimeconfig.json
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/bin/Debug/net7.0/POV.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/bin/Debug/net7.0/POV.pdb
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/obj/Debug/net7.0/POV.csproj.AssemblyReference.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/obj/Debug/net7.0/POV.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/obj/Debug/net7.0/POV.AssemblyInfoInputs.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/obj/Debug/net7.0/POV.AssemblyInfo.cs
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/obj/Debug/net7.0/POV.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/obj/Debug/net7.0/POV.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/obj/Debug/net7.0/refint/POV.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/obj/Debug/net7.0/POV.pdb
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/obj/Debug/net7.0/POV.genruntimeconfig.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/Introdução/POV/obj/Debug/net7.0/ref/POV.dll
